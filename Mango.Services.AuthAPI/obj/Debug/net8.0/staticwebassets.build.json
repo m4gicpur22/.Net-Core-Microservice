@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "73UzUGRG7Kt9MTxFd9j+YIfa1YCcQD89odSYUulZ1vM=",
+  "Source": "Mango.Services.AuthAPI",
+  "BasePath": "_content/Mango.Services.AuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\AffyThoughts\\source\\repos\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
+      "Version": 2,
+      "Source": "Mango.Services.CouponAPI",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
